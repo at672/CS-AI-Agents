@@ -1,0 +1,7 @@
+langgraph==0.2.45
+langchain-google-genai==2.0.4
+numpy
+pandas
+scikit-learn
+psycopg2-binary
+diskcache

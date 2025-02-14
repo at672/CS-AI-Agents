@@ -1,0 +1,12 @@
+{
+    "type": "postgresql",
+    "credentials": {
+        "host": "localhost",
+        "port": 5432,
+        "database": "financial_data",
+        "user": "your_username",
+        "password": "your_password",
+        "sslmode": "require",
+        "application_name": "financial_agent"
+    }
+}
